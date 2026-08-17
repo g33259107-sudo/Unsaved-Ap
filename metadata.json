@@ -1,0 +1,6 @@
+{
+  "name": "UNSAVED",
+  "description": "An original cinematic mobile story-driven game of mystery, hidden memories, emotional drama, and meaningful choices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
